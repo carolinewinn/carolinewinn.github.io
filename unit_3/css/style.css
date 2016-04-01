@@ -4,7 +4,7 @@ html  {
 }
 
 header {
-    height: 20vh;
+    height: 30vh;
     position: relative;
     top: 50%;
 }
@@ -19,8 +19,11 @@ body {
 	color:#4a4a4a;
 }
 
-info {
-    height: 50vh;
+#info {
+    flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0%;
 }
 
 a:link{
