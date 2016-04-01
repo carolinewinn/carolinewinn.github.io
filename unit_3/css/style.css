@@ -4,16 +4,20 @@ html  {
 }
 
 body {
-	font-family: Helvetica;
+	font-family: georgia;
 	text-align: left;
-	color:#fff;
+	color:#4a4a4a;
+}
+
+a{
+	color:#6b556c;
 }
 
 h1 {
-	color:#7ebeb4;}
+	color:#fff;}
 
 p {
-	color:#EDEDED;
+	color:#4a4a4a;
 }
 
 #slogan {
