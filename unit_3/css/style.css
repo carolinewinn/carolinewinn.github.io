@@ -19,11 +19,8 @@ body {
 	color:#4a4a4a;
 }
 
-#info {
-    flex: 1;
-    flex-grow: 1;
-    flex-shrink: 1;
-    flex-basis: 0%;
+section {
+    padding-bottom: 30px;
 }
 
 a:link{
