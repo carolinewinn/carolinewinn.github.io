@@ -1,9 +1,12 @@
-body  {
-	text-align: left;
-	background: url("/unit_3/images/desktop_mint.jpg");
+html  {
+	background: url("/unit_3/images/desktop_mint.jpg") no-repeat;
 	background-size: cover;
-	color:#000;
+}
+
+body {
 	font-family: Helvetica;
+	text-align: left;
+	color:#fff;
 }
 
 h1 {
