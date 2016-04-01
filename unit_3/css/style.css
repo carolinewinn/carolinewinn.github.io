@@ -3,6 +3,16 @@ html  {
 	background-size: cover;
 }
 
+header {
+    height: 70vh;
+    position: relative;
+    top: 50%;
+}
+
+h1 {
+	color:#fff;
+}
+
 body {
 	font-family: georgia;
 	text-align: left;
@@ -17,9 +27,6 @@ a:hover{
 	color:#aee1de;
 }
 
-h1 {
-	color:#fff;}
-
 p {
 	color:#4a4a4a;
 }
@@ -29,5 +36,5 @@ p {
 }
 
 #contact {
-	font-size:10px;
+	font-size:8px;
 }
