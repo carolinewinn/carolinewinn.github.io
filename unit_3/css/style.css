@@ -4,7 +4,7 @@ html  {
 }
 
 header {
-    height: 70vh;
+    height: 60vh;
     position: relative;
     top: 50%;
 }
@@ -33,8 +33,9 @@ p {
 
 #slogan {
 	font-style:italic;
+	color:#fff;
 }
 
 #contact {
-	font-size:8px;
+	font-size:11px;
 }
