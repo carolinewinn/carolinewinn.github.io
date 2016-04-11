@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Calligraffitti);
+
+html  {
+	background: url("/unit_3/images/desktop_mint.jpg") no-repeat;
+	background-size: cover;
+}
+
+header {
+    height: 30vh;
+    position: relative;
+    top: 50%;
+}
+
+h1 {
+	color:#fff;
+	font-family: 'Calligraffitti', cursive;
+}
+
+body {
+	font-family: georgia;
+	text-align: left;
+	color:#4a4a4a;
+}
+
+section {
+    padding-bottom: 250px;
+}
+
+a:link{
+	color:#6b556c;
+}
+
+a:hover{
+	color:#aee1de;
+}
+
+p {
+	color:#4a4a4a;
+}
+
+#slogan {
+	font-style:italic;
+	color:#fff;
+}
+
+#contact {
+	font-size:11px;
+}
