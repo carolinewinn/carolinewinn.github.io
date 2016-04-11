@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Calligraffitti);
 
 html  {
-	background: url("/unit_4/images/desktop_mint.jpg") no-repeat;
+	background: url("/unit_3/images/desktop_mint.jpg") no-repeat;
 	background-size: cover;
 }
 
@@ -13,7 +13,7 @@ header {
 
 h1 {
 	color:#fff;
-	font-family: 'Calligraffitti', 'cursive';
+	font-family: 'Calligraffitti', cursive;
 }
 
 body {
