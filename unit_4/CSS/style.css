@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Calligraffitti);
+@import url(https://fonts.googleapis.com/css?family=Lora);
 
 html  {
 	background: url("/unit_3/images/desktop_mint.jpg") no-repeat;
@@ -13,7 +13,7 @@ header {
 
 h1 {
 	color:#fff;
-	font-family: 'Calligraffitti', cursive;
+	font-family: 'Lora', serif;
 }
 
 body {
