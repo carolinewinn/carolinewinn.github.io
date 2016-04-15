@@ -18,6 +18,13 @@ nav {
 	float: left;
 }
 
+nav a {
+	text-decoration: none;
+	color: #aaaaaa;
+	margin: 30px;
+	display: inline-block;
+}
+
 h1 {
 	color:#fff;
 	font-family: 'Calligraffitti', cursive;
