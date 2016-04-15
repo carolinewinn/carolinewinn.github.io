@@ -1,0 +1,86 @@
+@import url(https://fonts.googleapis.com/css?family=Calligraffitti);
+
+/*html  {
+	background: url("/unit_3/images/desktop_mint.jpg") no-repeat;
+	background-size: cover;
+}*/
+
+header {
+	background-color:#FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color:#E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+	color:#fff;
+	font-family: 'Calligraffitti', cursive;
+}
+
+body {
+	font-family: georgia;
+	text-align: left;
+	color:#4a4a4a;
+}
+
+#two_column{
+	background-color:#FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color:#FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color:#E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div, section {
+    background-color:#FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+a:link{
+	color:#6b556c;
+}
+
+a:hover{
+	color:#aee1de;
+}
+
+p {
+	color:#4a4a4a;
+}
+
+footer {
+	background-color:#FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#slogan {
+	font-style:italic;
+	color:#fff;
+}
+
+#contact {
+	font-size:11px;
+}
