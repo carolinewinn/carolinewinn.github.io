@@ -14,15 +14,20 @@ header {
 nav {
 	background-color:#E8C66A;
 	border: 1px black solid;
-	padding: 20px;
-	float: right;
 }
 
-nav a {
+a {
 	text-decoration: none;
 	color: #aaaaaa;
 	margin: 30px;
-	display: inline-block;
+	display: block;
+	float: left;
+	padding: 20px;
+	
+}
+
+a:hover {
+	background-color:#ffffff;
 }
 
 h1 {
